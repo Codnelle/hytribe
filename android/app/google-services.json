@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "984518277615",
+    "project_id": "hytribe-13483",
+    "storage_bucket": "hytribe-13483.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984518277615:android:f0fbbe6456882d1a99de1a",
+        "android_client_info": {
+          "package_name": "com.kashish.hytribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984518277615-h6aehl8j4t4rd69dqc9f8ul6cap9lor5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kashish.hytribe",
+            "certificate_hash": "45846fcd5276ca8157701c3d2c7bf5bd35f7fc15"
+          }
+        },
+        {
+          "client_id": "984518277615-b9nvlnt0jd4p8foi791f4bl4j4red0vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4j0P3a18Xwfh31GaMaEOS6fqOb4QPms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984518277615-b9nvlnt0jd4p8foi791f4bl4j4red0vl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984518277615-1ck30tg4pidmjl1l12kao34up0s4fifu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kashish.hytribe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984518277615:android:e3e8fb48e07893ca99de1a",
+        "android_client_info": {
+          "package_name": "com.kashish.hytribe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984518277615-ujnvfqnop877vqrso490irvrq21g22io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kashish.hytribe",
+            "certificate_hash": "45846fcd5276ca8157701c3d2c7bf5bd35f7fc15"
+          }
+        },
+        {
+          "client_id": "984518277615-b9nvlnt0jd4p8foi791f4bl4j4red0vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4j0P3a18Xwfh31GaMaEOS6fqOb4QPms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984518277615-b9nvlnt0jd4p8foi791f4bl4j4red0vl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "984518277615-1ck30tg4pidmjl1l12kao34up0s4fifu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kashish.hytribe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
